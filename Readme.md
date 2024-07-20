@@ -8,3 +8,4 @@ https://tailwindcss.com/docs/installation
 
 # Cheatsheet
 https://yoksel.github.io/flex-cheatsheet/#section-flex-flow
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
