@@ -1,5 +1,8 @@
 https://tailwindcss.com/docs/installation
 
+# Project
+Example for deep flexbox layout in c# blazor with tailwind.
+
 # Installation 
 1. Execute "\tailwindcss\init_tailwindcss_cli.bat"
 
